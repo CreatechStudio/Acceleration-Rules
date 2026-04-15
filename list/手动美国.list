@@ -1,3 +1,14 @@
+DOMAIN-SUFFIX,grok.com,no-resolve
+IP-CIDR,1.0.0.1/32,no-resolve
+IP-CIDR,1.1.1.1/32,no-resolve
+DOMAIN,cloudflare-dns.com
+DOMAIN-SUFFIX,t-mobile.com
+DOMAIN-SUFFIX,nexus.xyz
+DOMAIN-SUFFIX,gov
+DOMAIN,help.apple.com
+DOMAIN,it-training.apple.com
+DOMAIN,training.apple.com
+DOMAIN,generativelanguage.googleapis.com
 DOMAIN,getsupport.apple.com
 DOMAIN-SUFFIX,school.apple.com
-DOMAIN,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,thecompleteuniversityguide.co.uk
