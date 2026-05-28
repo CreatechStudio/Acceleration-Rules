@@ -130,7 +130,6 @@ DOMAIN-SUFFIX,shiyanma.org.cn
 DOMAIN-SUFFIX,sqpx.org
 DOMAIN-SUFFIX,wsglw.com
 DOMAIN-SUFFIX,wsglw.net
-DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,acl4.ssr
 DOMAIN-SUFFIX,ip6-localhost
 DOMAIN-SUFFIX,ip6-loopback
@@ -1053,7 +1052,7 @@ PROCESS-NAME,Thunder.exe
 PROCESS-NAME,Transmission.exe
 PROCESS-NAME,uTorrent.exe
 PROCESS-NAME,WebTorrent.exe
-PROCESS-NAME,"WebTorrent Helper.exe"
+PROCESS-NAME,WebTorrent Helper.exe
 PROCESS-NAME,qbittorrent.exe
 DOMAIN-SUFFIX,smtp
 DOMAIN-KEYWORD,aria2

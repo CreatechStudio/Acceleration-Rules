@@ -26,10 +26,11 @@ DOMAIN-KEYWORD,ooklaserver
 DOMAIN-SUFFIX,fast.com
 DOMAIN-KEYWORD,speedtest
 DOMAIN-KEYWORD,secureacceptance.cybersource.com
+DOMAIN-KEYWORD,oracle
 DOMAIN-SUFFIX,test-ipv6.com
 PROCESS-NAME,adguard_dns
 PROCESS-NAME,WeChat
-PROCESS-NAME,"Apple Configurator"
+PROCESS-NAME,Apple Configurator
 PROCESS-NAME,DownloadService
 DOMAIN-KEYWORD,sslvpn-
 DOMAIN-SUFFIX,ipw.cn
