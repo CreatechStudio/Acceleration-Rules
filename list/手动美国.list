@@ -1,3 +1,4 @@
+DOMAIN-SUFFIX,gc.ca
 DOMAIN-SUFFIX,arc.net
 DOMAIN-KEYWORD,oracle
 DOMAIN,apps.apple.com
@@ -17,6 +18,8 @@ DOMAIN,www.redditstatic.com
 DOMAIN-SUFFIX,grok.com
 IP-CIDR,1.0.0.1/32,no-resolve
 IP-CIDR,1.1.1.1/32,no-resolve
+DOMAIN-KEYWORD,utoronto
+DOMAIN-KEYWORD,royalbank
 DOMAIN-SUFFIX,nexus.xyz
 DOMAIN-SUFFIX,gov
 DOMAIN,help.apple.com
